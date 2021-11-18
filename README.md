@@ -6,7 +6,9 @@
 
 📫 rohitreddynagareddy@gmail.com
 
-About me I am always curious about learning new skills and conserve my little time to polish my old skills. . I love to work in a team to achieve our goal.
+About me 
+
+I am always curious about learning new skills and conserve my little time to polish my old skills. . I love to work in a team to achieve our goal.
 
 👉 I love to dig into Customer Problems and solve them with the latest technology. I scale, automate and optimize their products with my problem-solving skills. To accomplish the results I focus on team building, skill requirement, work assignment, and multiple checking process.
 
