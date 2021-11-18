@@ -13,9 +13,11 @@ About me I am always curious about learning new skills and conserve my little ti
 
 If I focus on my skills then these are as follows:- 👀
 
-◆ Professional Skills Azure || DevOps || Cloud Computing || Automation ||
+◆ Professional Skills 
+  Azure || DevOps || Cloud Computing || Automation ||
 
-◆ Soft Skills Teamwork || Problem-solving || Critical-thinking || Decision-Making || Communication
+◆ Soft Skill
+   Teamwork || Problem-solving || Critical-thinking || Decision-Making || Communication
 
 Sharing achievements and working updates on LinkedIn 🏆✨⏱👨‍✈️
 Microsoft Certified Devops Engineer Expert 🎗️🎬🌺💬
