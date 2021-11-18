@@ -1,7 +1,6 @@
 
 👋 Hey { Techies }, I'm Rohit
 
-Azure Devops Consultant
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Azure+Devops+Consultant)](https://git.io/typing-svg)
 
 
