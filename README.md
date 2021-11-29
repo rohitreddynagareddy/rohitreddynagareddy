@@ -27,6 +27,7 @@ If I focus on my skills then these are as follows:- 👀
 Sharing achievements and working updates on LinkedIn 🏆✨⏱👨‍✈️
 Microsoft Certified Devops Engineer Expert 🎗️🎬🌺💬
 Microsoft Azure Administrator 🚀🌈🥇💼
+Microsoft Certified: Azure Solutions Architect Expert 🏆✨⏱👨‍✈️
 
 
 🌱 I’m currently learning Python, Java, ELK
