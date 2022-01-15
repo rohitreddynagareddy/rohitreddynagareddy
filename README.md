@@ -24,14 +24,14 @@ If I focus on my skills then these are as follows:- 👀
   
   Teamwork || Problem-solving || Critical-thinking || Decision-Making || Communication
 
-Sharing achievements and working updates on LinkedIn 🏆✨⏱👨‍✈️
-Microsoft Certified Devops Engineer Expert 🎗️🎬🌺💬
-Microsoft Azure Administrator 🚀🌈🥇💼
-Microsoft Certified: Azure Solutions Architect Expert 🏆✨⏱👨‍✈️
+Sharing achievements and working updates on LinkedIn 
+
+Microsoft Certified Devops Engineer Expert(AZ-400+AZ-104) | Microsoft Certified: Azure Solutions Architect Expert | MCT 🏆✨⏱👨‍✈️
+Microsoft Certified: Azure Network Engineer Associate| Microsoft Certified: Azure Security Engineer Associate 🎗️🎬🌺💬
+Microsoft Certified: Azure Developer Associate| Microsoft Certified: Power Platform Functional Consultant Associate 🏆✨⏱👨‍✈️
 
 
-🌱 I’m currently learning Python, Java, ELK
-💞️ I’m looking to collaborate on Devops , Python, Java and BIG data
+💞️ I’m looking to collaborate on Azure ||  Devops || Power Platform
 
 <!---
 rohitreddynagareddy/rohitreddynagareddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
