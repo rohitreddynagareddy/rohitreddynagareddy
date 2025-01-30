@@ -1,8 +1,6 @@
 
 👋 Hey { Techies }, I'm Rohit
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=IT Consultant)](https://git.io/typing-svg)
-
 
 📫 rohitreddynagareddy@gmail.com
 
@@ -18,7 +16,7 @@ If I focus on my skills then these are as follows:- 👀
 
 ◆ Professional Skills 
  
- Azure || DevOps || Cloud Computing || Automation ||
+ Azure || DevOps || Cloud Computing || Automation || AI
 
 ◆ Soft Skill
   
