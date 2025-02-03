@@ -16,7 +16,7 @@ If I focus on my skills then these are as follows:- 👀
 
 ◆ Professional Skills 
  
- Azure || DevOps || Cloud Computing || Automation || AI
+ Azure || DevOps || Cloud Computing || Automation || AI || Agentic AI
 
 ◆ Soft Skill
   
@@ -26,10 +26,10 @@ Sharing achievements and working updates on LinkedIn
 
 Microsoft Certified Devops Engineer Expert(AZ-400+AZ-104) | Microsoft Certified: Azure Solutions Architect Expert | MCT 🏆✨⏱👨‍✈️
 Microsoft Certified: Azure Network Engineer Associate| Microsoft Certified: Azure Security Engineer Associate 🎗️🎬🌺💬
-Microsoft Certified: Azure Developer Associate| Microsoft Certified: Power Platform Functional Consultant Associate 🏆✨⏱👨‍✈️
+Microsoft Certified: Azure Developer Associate|
 
 
-💞️ I’m looking to collaborate on Azure ||  Devops || Power Platform
+💞️ I’m looking to collaborate on Azure ||  Devops || Agentic AI
 
 <!---
 rohitreddynagareddy/rohitreddynagareddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
